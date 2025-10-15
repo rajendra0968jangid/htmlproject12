@@ -1,7 +1,11 @@
 # htmlproject12
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 deepak 
+=======
+Reyansh
+>>>>>>> 80c254c6a82c5c77b01c29b3c44ad9aa4dff35c4
 =======
 <<<<<<< HEAD
 krishna 
